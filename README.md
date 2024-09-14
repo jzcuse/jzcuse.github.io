@@ -1,2 +1,3 @@
-# jzcuse.github.io
+# timzhangjb.github.io
+
 This is my personal homepage.
